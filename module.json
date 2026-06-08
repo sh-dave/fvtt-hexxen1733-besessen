@@ -1,7 +1,7 @@
 {
   "id": "hexxen-1733-besessen",
   "title": "HeXXen 1733 - Besessen",
-  "version": "0.4.0",
+  "version": "0.3.2",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -21,5 +21,5 @@
   ],
   "authors": [ { "name": "sh-dave" } ],
   "manifest": "https://raw.githubusercontent.com/sh-dave/fvtt-hexxen1733-besessen/main/module.json",
-  "download": "https://raw.githubusercontent.com/sh-dave/fvtt-hexxen1733-besessen/releases/fvtt-hexxen1733-besessen-0.4.0.zip"
+  "download": "https://github.com/sh-dave/fvtt-hexxen1733-besessen/releases/download/v0.3.2/fvtt-hexxen1733-besessen-0.3.2.zip"
 }
