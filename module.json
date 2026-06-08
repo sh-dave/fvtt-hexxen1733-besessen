@@ -1,0 +1,25 @@
+{
+  "id": "hexxen-1733-besessen",
+  "title": "HeXXen 1733 - Besessen",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+ "packs": [
+    {
+      "name": "hexxen-1733-besessen",
+      "label": "HeXXen 1733 - Besessen",
+      "path": "packs/hexxen-1733-besessen",
+      "type": "Adventure",
+      "system": "hexxen-1733",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "authors": [ { "name": "sh-dave" } ],
+  "manifest": "https://github.com/sh-dave/fvtt-hexxen1733-besessen/main/module.json",
+  "download": "https://github.com/sh-dave/fvtt-hexxen1733-besessen/releases/fvtt-hexxen1733-besessen-0.1.0.zip"
+}
